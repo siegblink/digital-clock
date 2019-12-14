@@ -1,0 +1,13 @@
+body {
+  background: #333;
+}
+
+.clock {
+  font-size: 4em;
+  text-align: center;
+  color: yellow;
+}
+
+.clock span {
+  padding: 20px;
+}
